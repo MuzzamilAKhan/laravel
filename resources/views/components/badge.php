@@ -6,7 +6,6 @@
     'INFO' => ['blue', 'INFO'],
     'ERROR' => ['red', 'ERROR'],
 };
-
 ?>
 
 <div class="my-1">
